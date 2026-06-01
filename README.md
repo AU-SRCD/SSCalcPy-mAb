@@ -5,7 +5,7 @@ For a version of SSCalcPy under the Creative Commons Attribution-NonCommercial-S
 
 <i>To download the code, click the SSCalcPy-mAb zip file and push the </i> <b>Download Raw file</b><i> button</i>
 
-(<i>To download the code, click the green</i> <b><> Code</b><i> button, and select </i><b>Download ZIP</b>)
+(<i>To download full depository, click the green</i> <b><> Code</b><i> button, and select </i><b>Download ZIP</b>)
 
 The research behind the SSCalcPy software is publiched as
 
