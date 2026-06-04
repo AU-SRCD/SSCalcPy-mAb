@@ -7,6 +7,8 @@ For a version of SSCalcPy under the Creative Commons Attribution-NonCommercial-S
 
 (<i>To download full depository, click the green</i> <b><> Code</b><i> button, and select </i><b>Download ZIP</b>)
 
+<b>Update 4th June 2026: <\b>New release version (SSCalcPy_Release_20260604) available that included fixes to figure font sizes, new info on running code om Linux, and much updated 0_Read_This_Before_Use document
+
 The research behind the SSCalcPy software is publiched as
 
 Analysing the structure of antibodies using circular dichroism with an antibody augmented reference set and the algorithm SELCON<br/>
